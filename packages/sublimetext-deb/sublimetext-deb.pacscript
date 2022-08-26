@@ -1,10 +1,10 @@
 name="sublimetext-deb"
 gives="sublimetext"
 replace="${gives}"
-version="3211"
+version="4126"
 url="https://download.sublimetext.com/sublime-text_build-${version}_amd64.deb"
 description="Sublime text light text editor for programmers"
-hash="86ef373fb2fb645cdf72af192916dbe278d886283e1ee534843b6d259f3c08ab"
+hash="1c25ae2b7f89763e0ba1b661d0b07c0ba3df62b23de410d6fed4a21f8b1d9418"
 maintainer="0x262D <pacstall@copypaste.anonaddy.me>"
 repology=("project: sublimetext")
 
