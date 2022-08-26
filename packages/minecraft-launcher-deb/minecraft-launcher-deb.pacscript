@@ -1,0 +1,9 @@
+name="minecraft-launcher-deb"
+pkgname="minecraft-launcher"
+repology=("project: ${pkgname}")
+version="1121"
+breaks="${pkgname} ${pkgname}-git ${pkgname}-bin ${pkgname}-app"
+gives="${pkgname}"
+url="https://launcher.mojang.com/download/Minecraft.deb"
+description="Official Minecraft Launcher"
+maintainer="The Blob SCP <81673375+theblobscp@users.noreply.github.com>"

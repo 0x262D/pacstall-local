@@ -1,0 +1,7 @@
+name="lutris-deb"
+version="0.5.10.1"
+gives="lutris"
+url="https://github.com/lutris/lutris/releases/download/v${version}/lutris_${version}_all.deb"
+description="open source gaming platform"
+hash="2884a04dbd6be9ca5654b623abd86bdf2cdf91061301592bdcd70587202429e4"
+maintainer="D-Brox <BroxZuka@protonmail.com>"

@@ -1,0 +1,10 @@
+name="bitwarden-deb"
+gives="bitwarden"
+breaks="${gives}-app ${gives}-git"
+replace="${gives}"
+version="2022.6.2"
+url="https://github.com/${gives}/clients/releases/download/desktop-v${version}/Bitwarden-${version}-amd64.deb"
+description="Open Source Password Manager"
+hash="15a6319c252c28131b3e188d29c0787991433747c2d677c6e928b850ae9e921d"
+maintainer="WRM-42 <y8bsbahy@anonaddy.me>"
+repology=("project: bitwarden")
