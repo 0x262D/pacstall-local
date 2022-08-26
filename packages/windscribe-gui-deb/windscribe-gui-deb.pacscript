@@ -1,8 +1,0 @@
-name="windscribe-gui-deb"
-gives="windscribe"
-replace="${gives}"
-version="2.4.8_beta"
-url="https://assets.totallyacdn.com/desktop/beta/${gives}_${version}_amd64.deb"
-description="The GUI of Windscribe VPN"
-hash="647384b9f2208c2d309485102b3b343be5e822a686a650e596c75118fb167e36"
-maintainer="WRM-42 <y8bsbahy@anonaddy.me>"
