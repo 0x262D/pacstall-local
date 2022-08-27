@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=WSysMon
+Exec=wsysmon
+Type=Application
+Name[ru_RU]=wsysmon.desktop
