@@ -25,5 +25,4 @@ install() {
   # Install bin
   sudo install -Dm755 "${pkgname}" "${pkgdir}/usr/bin/${pkgname}"
 }
-
 # vim:set ft=sh ts=2 sw=2 et:
