@@ -1,5 +1,5 @@
-name="sublimemerge-pill"
-pkgname="sublimemerge-pill"
+name="sublime-merge-pill"
+pkgname="sublime-merge-pill"
 version="2077"
 
 url="https://gist.githubusercontent.com/0x262D/c7419da5d8ba633eb370fbc21247bcac/raw/900020717076540f73ea8efa2233025da9a2553d/nop"
