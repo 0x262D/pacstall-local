@@ -6,7 +6,7 @@ url="https://gist.githubusercontent.com/0x262D/c7419da5d8ba633eb370fbc21247bcac/
 hash="2b8fbda969a8aaa908e763c57e6b22a1697b7c0c5f95fc35b95d492fcc54d082"
 
 # depends="sublime-merge"
-pacdeps=("sublimemerge-deb")
+pacdeps=("sublime-merge-deb")
 build_depends="xxd sudo"
 description="Sublime text like Git GUI Client"
 maintainer="0x262D <pacstall@copypaste.anonaddy.me>"
